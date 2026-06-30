@@ -29,11 +29,14 @@ I am a **Systems Analysis and Development (ADS)** student from Brazil, driven by
 ### Technologies & Skills
 #### 💻 Programming & Tools
 <p align="left">
-  <a href="https://www.python.org">
+  <a href="https://www.python.org" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" alt="Python" />
   </a>
-  <a href="https://git-scm.com/">
+  <a href="https://git-scm.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+  </a>
+  <a href="https://www.brmodeloweb.com/" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/66977729?s=200&v=4.png" width="40" height="40" alt="brModelo" />
   </a>
 </p>
 
