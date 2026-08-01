@@ -1,5 +1,5 @@
 # 💀 Thiago Santos
-> "Everything that has a beginning has an end." — **The Matrix**
+> 
 
 <p align="left">
   <img src="https://img.shields.io/badge/Focus-Problem%20Solving-red?style=for-the-badge" />
@@ -70,4 +70,4 @@ I am a **Systems Analysis and Development (ADS)** student from Brazil, driven by
   </a>
 </p>
 
-> What is 'real'? How do you define 'real'?" — **Morpheus**
+> 
