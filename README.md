@@ -47,7 +47,7 @@ I am a **Systems Analysis and Development (ADS)** student from Brazil, driven by
 
 ### GitHub Stats
 <p align="left">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=oThiagoDSS&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" />
+  <img height="180" src="https://github-readme-stats-thiago.vercel.app/api/top-langs/?username=oThiagoDSS&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" />
 </p>
 
 ---
