@@ -46,7 +46,7 @@ I am a **Systems Analysis and Development (ADS)** student from Brazil, driven by
 ### Languages
 
 - **English:** Fluent (C2)
-- **Spanish:** Intermediate
+- **Spanish:** Intermediate (B1)
 - **Portuguese:** Native
 - **French:** Beginner (Learning)
 
