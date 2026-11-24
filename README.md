@@ -18,7 +18,7 @@
 
 <!-- Terminal-style green typing subtitle reflecting current profile and portfolio focus. -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&pause=1200&color=00FF41&center=true&vCenter=true&width=640&lines=%3E+system+initialized...;%3E+operator%3A+Thiago+Santos+(oThiagoDSS);%3E+status%3A+2nd-Sem+ADS+Student+%7C+Portfolio+Builder;%3E+focus%3A+Software+Engineering+%26+Game+Dev" alt="status" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&pause=1200&color=00FF41&center=true&vCenter=true&width=640&lines=%3E+system+initialized...;%3E+operator%3A+Thiago+Santos+(oThiagoDSS);%3E+status%3A+2nd-Sem+ADS+Student;%3E+focus%3A+Software+Engineering+%26+Game+Dev" alt="status" />
 </p>
 
 <!-- Header status badges: focus, current semester, career goal. -->
