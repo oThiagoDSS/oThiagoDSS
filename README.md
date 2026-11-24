@@ -23,9 +23,9 @@
 
 <!-- Header status badges: focus, current semester, career goal. -->
 <p align="left">
-  <img src="https://img.shields.io/badge/Focus-Problem%20Solving-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-2nd%20Sem%20ADS-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Goal-Game%20Development-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FOCUS-Problem%20Solving-161b22?style=for-the-badge&labelColor=991b1b&color=161b22" />
+  <img src="https://img.shields.io/badge/STATUS-2nd%20Sem%20ADS-161b22?style=for-the-badge&labelColor=1e40af&color=161b22" />
+  <img src="https://img.shields.io/badge/GOAL-Game%20Development-161b22?style=for-the-badge&labelColor=166534&color=161b22" />
 </p>
 
 ---
