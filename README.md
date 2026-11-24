@@ -3,15 +3,23 @@
   Thiago Santos — GitHub Profile README
   ------------------------------------------------------------
   Layout rules:
-    - All icons are plain <img> tags (no <a>) to avoid the default
+- All icons are plain <img> tags (no <a>) to avoid the default
       link underline ("blue bar") in strict Markdown previews.
-    - Icons are kept on a single line so the renderer treats them
+- Icons are kept on a single line so the renderer treats them
       as inline content and wraps them naturally.
-    - Badges use shields.io for the header status row.
+- Badges use shields.io for the header status row.
   ============================================================
 -->
 
-# 💀 Thiago Santos
+<!-- Waving header banner in monochrome/grayscale tones. -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:21262d,100:484f58&height=200&section=header&text=THIAGO%20SANTOS&fontColor=ffffff&fontSize=52&fontAlign=50&fontAlignY=40&desc=DEV%20%2F%2F%20GAME%20DEV%20%2F%2F%20CREATIVE%20DIRECTOR&descColor=c9d1d9&descAlignY=62&descSize=16" alt="Thiago Santos" />
+</p>
+
+<!-- Terminal-style green typing subtitle reflecting current profile and portfolio focus. -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&pause=1200&color=00FF41&center=true&vCenter=true&width=640&lines=%3E+system+initialized...;%3E+operator%3A+Thiago+Santos+(oThiagoDSS);%3E+status%3A+2nd-Sem+ADS+Student+%7C+Portfolio+Builder;%3E+focus%3A+Software+Engineering+%26+Game+Dev" alt="status" />
+</p>
 
 <!-- Header status badges: focus, current semester, career goal. -->
 <p align="left">
@@ -68,8 +76,9 @@ I am a **Systems Analysis and Development (ADS)** student from Brazil, driven by
 
 ---
 
+<!-- Top languages card styled to blend into GitHub's dark background (#010409). -->
 ### GitHub Stats
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=oThiagoDSS&layout=compact&langs_count=8&theme=dark&card_width=800)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=oThiagoDSS&layout=compact&langs_count=8&theme=dark&card_width=800&bg_color=010409&border_color=30363d)
 
 ---
 
